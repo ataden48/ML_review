@@ -16,4 +16,4 @@ Also the use of tools for emotional evaluation of the text.
 However, the example only shows feature processing and engineering, not including data cleansing.
 
 P.S.
-Also, a second notebook was added for an example of evaluating the work of cleaning data, however, cleaning data from outliers and duplicates negatively affected the quality of model predictions.
+Also, a second notebook (notebook-for-show-1.ipynb) was added for an example of evaluating the work of cleaning data, however, cleaning data from outliers and duplicates negatively affected the quality of model predictions.
